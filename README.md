@@ -2,7 +2,7 @@
 
 Demo static site ("Acme Cloud") for testing Claude-driven changes from Slack.
 
-**Live site:** https://dotzero-miesam.github.io/ai-sdlc-poc/
+**Live site:** https://dotzero-poc.github.io/ai-sdlc-poc/
 
 ## Pages
 Home · Features · Pricing · About · Contact (+ 404)
