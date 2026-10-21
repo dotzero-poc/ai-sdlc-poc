@@ -15,8 +15,8 @@ export default function Home() {
       </section>
       <section>
         <h2>Why teams choose {site.name}</h2>
-        <div className="grid">
-          {features.slice(0, 3).map((f) => (
+        <div className="grid grid-3">
+          {features.map((f) => (
             <div className="card" key={f.title}>
               <div className="card-icon">{f.icon}</div>
               <h3>{f.title}</h3>
